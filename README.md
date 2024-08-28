@@ -1,2 +1,3 @@
-# Your changes in the main branch
-# Changes from the master branch
+# Flutter Pharmacist Mobile Application
+This application is designed to assist users in locating nearby pharmacists and searching for medications. It features a user-friendly interface that allows users to find pharmacies on a map, place orders via messaging, and evaluate pharmacy services.
+Pharmacists benefit from efficient inventory management and customer interaction tools. Future updates will introduce features like automatic medication renewal alerts and personalized treatment tracking. The application aims to continuously evolve based on user feedback, enhancing healthcare solutions and pharmacy service
